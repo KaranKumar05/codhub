@@ -1,0 +1,58 @@
+{
+    "courses":[
+        {
+            "title": "Python",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          },
+          {
+            "title": "C++",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          },
+          {
+            "title": "Dart",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          },
+          {
+            "title": "JavaScript",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          },
+          {
+            "title": "Java",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          },
+          {
+            "title": "Rust",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          },
+          {
+            "title": "Ruby",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          },
+          {
+            "title": "ReactJs",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          },
+          {
+            "title": "NodeJs",
+            "description":"Programming is the process of creating instructions for computers to perform tasks. It involves writing code in different languages, from low-level to high-level, to solve problems and build software applications.",
+            "instructor": "Karan Kumar",
+            "price": "99$"
+          }
+    ]
+}
